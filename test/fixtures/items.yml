@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  part_number: MyString
+  fixed_price: 1.5
+  actual_price: 1.5
+  spare: one
+
+two:
+  name: MyString
+  description: MyString
+  part_number: MyString
+  fixed_price: 1.5
+  actual_price: 1.5
+  spare: two
